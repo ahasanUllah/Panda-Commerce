@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.slider-color{
+    background-color: rgb(252,234,232);
+}
+.fw-600{
+    font-weight: 500;
+}
+.price{
+    color: #FF136F;
+}
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
